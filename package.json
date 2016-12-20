@@ -4,11 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
     "test": "mocha *.test.js"
-=======
-    "test": "mocha ./src/js/*.test.js"
->>>>>>> 5ef7b2e5c8772decc43cbbf7d423aa2b94249e93
   },
   "repository": {
     "type": "git",
